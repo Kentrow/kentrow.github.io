@@ -20,9 +20,9 @@ layout: default
             <span class="post__minutes">
               {% assign words = page.content | number_of_words %}
               {% if words < 360 %}
-                1 min read
+                1 min de lecture
               {% else %}
-                {{ words | divided_by:180 }} min read
+                {{ words | divided_by:180 }} min de lecture
               {% endif %}
               <time class="post__date"
                 datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.date | date: date_format }}</time>
