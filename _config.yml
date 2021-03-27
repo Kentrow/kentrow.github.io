@@ -25,7 +25,6 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: quent.fleury@gmail.com # Add your email for contact form
   description: Si vous souhaitez me contacter pour une question ou une remarque n'hésitez pas à utiliser le formulaire ci-dessous. # Add a description of your form
 
 # NOTE
@@ -70,7 +69,6 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
- # - jekyll-tagging
   - jekyll-language-plugin
 
 paginate: 8
