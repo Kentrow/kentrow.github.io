@@ -95,3 +95,12 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
