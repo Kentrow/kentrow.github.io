@@ -44,7 +44,8 @@ layout: default
               <span>dans</span>
               <span class="post-tags">
                 {% for tag in page.tags %}
-                <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag">{{ tag }}</a>
+                <!-- <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag">{{ tag }}</a> -->
+                <a href="/tag/{{ tag_name }}"><code class="post__tag"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
                 {% endfor %}
               </span>
               {% endif %}
