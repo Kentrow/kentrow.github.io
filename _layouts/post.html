@@ -43,9 +43,9 @@ layout: default
               {% if page.tags.size >= 1 %}
               <span>dans</span>
               <span class="post-tags">
-                {% for tag in page.tags %}
+                {% for tag in post.tags %}
                 <!-- <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tag">{{ tag }}</a> -->
-                <a href="/tag/{{ tag_name }}"><code class="post__tag"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                <a href="{{ site.baseurl }}/tag/{{ tag }}" class="article__tag">{{ tag }}</a>
                 {% endfor %}
               </span>
               {% endif %}
