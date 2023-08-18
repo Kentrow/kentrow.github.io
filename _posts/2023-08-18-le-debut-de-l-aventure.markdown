@@ -2,7 +2,7 @@
 layout: post
 title:  Le debut de l'aventure
 description: Ça y est, c'est parti, les premières lignes de ce blog commencent. Un mélange d'excitation et de stress, je ne sais pas où ça va aller mais je ...
-date:   2023-08-18 13:00:00 +0200
+date:   2023-08-18 08:00:00 +0200
 image:  '/images/p1.jpg'
 tags:   nature life story
 featured: true
