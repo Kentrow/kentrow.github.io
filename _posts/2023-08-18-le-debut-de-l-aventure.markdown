@@ -5,7 +5,6 @@ description: Ça y est, c'est parti, les premières lignes de ce blog commencent
 date:   2023-08-18 08:00:00 +0200
 image:  '/images/p1.jpg'
 tags:   nature life story
-featured: true
 ---
 Ça y est, c'est parti, les premières lignes de ce blog commencent. Un mélange d'excitation et de stress, je ne sais pas où ça va aller mais je me lance. Depuis de nombreuses années je consulte de nombreux blogs pour sans cesse apprendre de nouvelles compétences, j'ai construit une liste de favoris qui évolue au fil des années et je me suis toujours dit "Pourquoi pas moi ?".
 
